@@ -1,6 +1,6 @@
 <?php
 
-namespace JohnDoe\BlogPackage;
+namespace Namviet\Account;
 
 use Illuminate\Support\ServiceProvider;
 
